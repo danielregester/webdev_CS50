@@ -4,5 +4,4 @@ requirements are to generate a venv on another comp
 
 CS50 course is the course found at this link: https://cs50.harvard.edu/web/2020/weeks/
 
-NOTE - there is a venv folder within this directory locally for PyCharm to use automatically when it migrates in, this is not being commited to github; this 
-venv should be recreatable using the requirements.txt file
+NOTE - there is a venv folder within this directory locally for PyCharm to use automatically when it migrates in, this is not being commited to github; this venv should be recreatable using the requirements.txt file
